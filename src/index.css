@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  justify-content: left;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Avenir-Roman, sans-serif;
+  margin: 0;
+  padding: 0;
+}
